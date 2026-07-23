@@ -57,7 +57,7 @@ python main.py
 
 * app/handlers/ — Contains routers and survey logic (FSM).
 
-* app/assets/pdfs/ — Directory for segment-specific PDF presentations.
+* app/assets/ — Directory for segment-specific PDF presentations.
 
 * config.py — Environment variables and configuration management.
 
